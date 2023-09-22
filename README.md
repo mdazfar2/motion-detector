@@ -20,7 +20,7 @@ Upon running the code, you'll be greeted with a visual feast of real-time analys
 
 **Threshold Frame:** Pixels above a defined intensity difference threshold are marked white, making motion detection a breeze. ⚪⚫
 
-**Color Frame:** Experience the action in full color, complete with green contours around moving objects for added visibility. 🌈🔍
+**Color Frame:** Experience the action in full color, complete with green contours around moving objects for added visibility.. 🌈🔍
 
 # Versatile Applications
 Whether you're securing your home, conducting research, or exploring the world of computer vision, our Motion Detection project is your versatile companion. The potential uses are limited only by your imagination! 🏡🔬🤖
