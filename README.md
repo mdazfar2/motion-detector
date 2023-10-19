@@ -23,7 +23,7 @@ Upon running the code, you'll be greeted with a visual feast of real-time analys
 **Color Frame:** Experience the action in full color, complete with green contours around moving objects for added visibility. 🌈🔍
 
 # Versatile Applications
-Whether you're securing your home, conducting research, or exploring the world of computer vision, our Motion Detection project is your versatile companion. The potential uses are limited only by your imagination! 🏡🔬🤖.
+Whether you're securing your home, conducting research, or exploring the world of computer vision, our Motion Detection project is your versatile companion. The potential uses are limited only by your imagination! 🏡🔬🤖..
 
 🌐 **Connect with Me**
 - [LinkedIn](www.linkedin.com/in/md-azfar-alam)
