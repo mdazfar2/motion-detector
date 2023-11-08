@@ -2,7 +2,7 @@
 Turn your computer into a vigilant digital guardian with our Motion Detection Python project! 🌟
 
 # Introduction
-Ever wished you could have eyes on your space even when you're not there? Our Motion Detection Python program makes it possible! This open-source project is designed to detect motion and record time intervals, providing a powerful surveillance and analysis tool at your fingertips.
+Ever wished you could have eyes on your space even when you're not there? Our Motion Detection Python program makes it possible! This open-source project is designed to detect motion and record time intervals, providing a powerful surveillance and analysis tool at your fingertips..
 
 # Requirements
 Python 3 🐍
